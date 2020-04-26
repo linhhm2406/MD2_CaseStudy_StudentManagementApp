@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RefactoringVer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55c357cb-4be9-4d97-9855-db8774fa4088" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ay2Ch9BhgT74koqfQbY2JrI6Q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LoginDisplayController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.LoginDisplayController" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagementDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.ManagementDisplay" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagementDisplayController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ManagementDisplayController" />
+      <module name="RefactoringVer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefactoringVer.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/RefactoringVer_jar/RefactoringVer.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.RefactoringVer.jar" />
+        <item itemvalue="Application.ManagementDisplayController" />
+        <item itemvalue="Application.LoginDisplayController" />
+        <item itemvalue="Application.ManagementDisplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#SQL_Dialects" timestamp="1587828718796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1587828718796" />
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1587825888760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587825888760" />
+    <state x="499" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587828929813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587828929813" />
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587801026021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1587801026021" />
+    <state x="60" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587701898029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="60" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587701898029" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587833664648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587833664648" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1587830543670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587830543670" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1587830543670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587830543670" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1587830543670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587830543670" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1587830543670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587830543670" />
+    <state x="-8" y="0" width="1234" height="824" key="SettingsEditor" timestamp="1587828937631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-8" y="0" width="1234" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587828937631" />
+    <state x="499" y="168" width="538" height="495" key="extract.method.dialog" timestamp="1587827484158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587827484158" />
+    <state x="209" y="33" key="new project wizard" timestamp="1587833666853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587833666853" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587799423604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587799423604" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1587808291120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587808291120" />
+  </component>
+</project>
